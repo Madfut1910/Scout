@@ -1,0 +1,451 @@
+<!DOCTYPE html> 
+
+<html> 
+
+<head> 
+
+<title>SHQ Card Creator</title> 
+
+<script src="https://cdn.jsdelivr.net/npm/dom-to-image-more@3.6.0/dist/dom-to-image-more.min.js"></script><!-- :contentReference[oaicite:0]{index=0} -->
+
+<link rel="icon" type="image/x-icon" href="Data Mini Logo (1).png">
+
+<style> 
+
+ 
+
+body{ 
+
+font-family: "EAFCNumbersBold", sans-serif;
+
+color: #ffffff;
+
+background-image: linear-gradient(130deg, #0da0d1 0%, #07040d 10%,  #010423 74%);
+
+
+} 
+
+h1{
+
+
+text-shadow:0 66 20px 0px rgba(0, 0, 0, 0.6);
+
+font-size: 45px;
+
+}
+.topnav {
+  background-color: #131522;
+  box-shadow:0 0 20px 0px rgba(0, 0, 0, 0.6);
+  border-radius: 10px;
+  overflow: hidden;         /* keeps floated children inside */
+}
+
+/* Make the logo behave like the links */
+.topnav .logo {
+  float: left;              /* <<< add this */
+  height: 30px;             /* pick a size you like */
+  padding: 8px 12px;        /* top/bottom match the links */
+}
+
+/* Your link rules stay the same */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #3c4949;
+  color: rgb(255, 255, 255);
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+
+@font-face { 
+
+font-family: "EAFCNumbersBold"; 
+
+src: url("/CruyffSansCondensed-Meduim") format("truetype"); 
+
+font-weight: bold; 
+
+color: #fffdb6;
+
+} 
+
+ 
+
+@font-face { 
+
+font-family: "EAFCNumbersMedium"; 
+
+src: url("/CruyffSansCondensed-Regular") format("truetype"); 
+
+font-weight: light; 
+
+color: #fffdb6;
+
+} 
+
+ 
+
+.card { 
+
+position: relative; 
+
+display: inline-block; 
+
+color: #fffdb6;
+
+width: 300px; 
+
+user-select: none; 
+
+} 
+
+ 
+
+.card img { 
+
+width: 100%; 
+
+display: block; 
+
+border-radius: 12px; 
+
+pointer-events:none;  
+
+z-index:0;  
+
+} 
+
+ 
+
+.overall-position { 
+
+position: absolute; 
+
+padding: 6px 12px; 
+
+border-radius: 6px; 
+
+display: flex; 
+
+flex-direction: column; 
+
+align-items: center; 
+
+gap: 2px; 
+
+font-weight: 600; 
+
+font-size: 50px; 
+
+letter-spacing: -1px; 
+
+user-select: none; 
+
+} 
+
+ 
+
+.overall-position .position { 
+
+font-size: 20px; 
+
+font-weight: normal; 
+
+} 
+
+ 
+
+.stats { 
+
+font-family:'"EAFCNumbersBold"', sans-serif;
+
+position: absolute; 
+
+bottom: 40px; 
+
+left: 0px; 
+
+right: 0px; 
+
+display: grid; 
+
+grid-template-columns: repeat(6, auto); 
+
+text-align: center; 
+
+font-size: 20px; 
+
+padding: 30px 42px;
+
+gap: 0 2px;
+
+z-index:2;
+
+
+} 
+
+.player-name{
+
+z-index:2;
+
+position:absolute;
+
+bottom:105px;
+
+left:0; right:0;
+  
+text-align:center;
+
+font-family:'"EAFCNumbersBold"', sans-serif;
+
+font-size:21px;
+
+font-weight:500;
+
+letter-spacing:1px;
+
+color:#fffdb6;
+
+font-weight: bold; 
+
+}
+
+.stat-label { 
+
+font-size: 12px; 
+
+letter-spacing: 1.1px; 
+
+font-weight: normal; 
+
+} 
+
+ 
+
+.stat-value { 
+
+font-size: 16px; 
+
+line-height: 1; 
+
+font-weight: normal; 
+
+} 
+
+.badges {
+
+  position: absolute;
+
+  bottom: 12px;      
+         
+  left: 0;
+
+  right: 0;
+
+  display: flex;
+
+  justify-content: center;
+
+  gap: 13px;          
+          
+  z-index: 2;
+  
+}
+
+.badges .badge {
+
+  width: 28px;
+
+  height: 80px;
+
+  object-fit: contain;
+
+  user-select: none;
+
+  pointer-events: none;
+  
+}
+
+.player-face{
+  
+position:absolute;
+  
+top:-30px; right:0px;
+ 
+height:410px;
+  
+width:auto;
+ 
+object-fit:contain;
+ 
+pointer-events:none;        
+ 
+z-index:1;  
+                  
+}
+
+.download-btn{
+  position:fixed;              /* floats; never shifts the card */
+  right:20px;                  /* very right side */
+  bottom:20px;                 /* bottom corner */
+  padding:12px 18px;
+  font-family:'EAFCNumbersBold',sans-serif;
+  font-size:16px;
+  color:#fffdb6;
+  cursor:pointer;
+
+  background:linear-gradient(45deg,#224455 0%,#242124 74%);
+  border:2px solid #9b4dff;
+  border-radius:20px;
+  box-shadow:0 0 12px 3px rgba(155,77,255,.6);
+  transition:box-shadow .2s, transform .2s;
+}
+.download-btn:hover{
+  box-shadow:0 0 20px 6px rgba(155,77,255,.85);
+  transform:scale(1.05);
+}
+
+
+</style> 
+
+</head> 
+
+<body> 
+
+  <div class="topnav">
+  <img src="Data Logo 1.png"
+       alt="Scout logo"
+       class="logo" />
+
+  <a href="#home">Home</a>
+  <a class="active" href="#news">Card Creator</a>
+  <a href="#contact">Database</a>
+  <a href="#about">About</a>
+</div>
+
+<h1>
+Card Creator
+</h1>
+
+<button id="download-btn" class="download-btn">Download PNG</button>
+
+  <div class="card"> 
+
+    <img src="https://mf24.b-cdn.net/25/cards/tots_big.png" alt="fut_birthday_big" /> 
+
+     
+
+    <div class="overall-position" style="top: 45px; left: 35px;"> 
+
+      <div class="overall">97</div> 
+
+      <div class="position">ST</div> 
+
+    </div> 
+
+     <!-- Player name bar -->
+<div class="player-name">Cristiano Ronaldo</div>
+
+<!-- Stats grid (unchanged) -->
+<div class="stats">
+  …
+</div>
+
+    <div class="stats"> 
+
+      <div class="stat"> 
+
+        <div class="stat-label">PAC</div> 
+
+        <div class="stat-value">99</div> 
+
+      </div> 
+
+      <div class="stat"> 
+
+        <div class="stat-label">SHO</div> 
+
+        <div class="stat-value">99</div> 
+
+      </div> 
+
+      <div class="stat"> 
+
+        <div class="stat-label">PAS</div> 
+
+        <div class="stat-value">91</div> 
+
+      </div> 
+
+      <div class="stat"> 
+
+        <div class="stat-label">DRI</div> 
+
+        <div class="stat-value">97</div> 
+
+      </div> 
+
+      <div class="stat"> 
+
+        <div class="stat-label">DEF</div> 
+
+        <div class="stat-value">46</div> 
+
+      </div> 
+
+      <div class="stat"> 
+
+        <div class="stat-label">PHY</div> 
+
+        <div class="stat-value">92</div> 
+
+      </div> 
+
+    </div> 
+
+    <div class="badges">
+      <img class="badge flag"   src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Flag_of_Portugal_%28official%29.svg/800px-Flag_of_Portugal_%28official%29.svg.png"   alt="Nation Flag">
+      <img class="badge league" src="Leagues/league_large_350.png" alt="League badge">
+      <img class="badge club" src="Clubs/club_large_112139.png" alt="Club Badge">
+    </div> 
+
+    <img class="player-face"
+    src="https://mf24.b-cdn.net/25/faces/p167792961.png"
+    alt="Player face">
+
+  </div> 
+
+  <script>
+    const btn  = document.getElementById('download-btn');
+    const card = document.querySelector('.card');   // the element to capture
+    
+    btn.addEventListener('click', () => {
+      // domtoimage will inline all fonts/images and keep transparent areas
+      domtoimage.toPng(card, {backgroundColor: null})   // ensure transparency
+        .then(dataUrl => {
+          const link = document.createElement('a');
+          link.download = 'my-card.png';
+          link.href = dataUrl;
+          link.click();
+        })
+        .catch(err => {
+          console.error('Could not save image', err);
+          alert('Sorry – unable to save. Are any images blocking CORS?');
+        });
+    });
+    </script>
+    
+</body> 
+
+</html> 
