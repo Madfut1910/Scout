@@ -1,0 +1,159 @@
+Argentina - 52
+Brazil - 54
+England - 14
+France - 18
+Germany - 21
+Italy - 27
+Netherlands - 34
+Portugal - 38
+Spain - 45
+Belgium - 7
+Afghanistan - 149
+Albania - 1
+Algeria - 97
+Andorra - 2
+Angola - 98
+Antigua & Barbuda - 63
+Armenia - 3
+Australia - 195
+Austria - 4
+Azerbaijan - 5
+Barbados - 66
+Belarus - 6
+Belize - 67
+Benin - 99
+Bermuda - 68
+Bolivia - 53
+Bosnia Herzegovina - 8
+Bulgaria - 9
+Burkina Faso - 101
+Burundi - 102
+CAR - 105
+Cameroon - 103
+Canada - 70
+Cape Verde Islands - 104
+Chad - 106
+Chile - 55
+China PR - 155
+Colombia - 56
+Comoros - 214
+Congo - 107
+Costa Rica - 72
+Croatia - 10
+Cuba - 73
+Cyprus - 11
+Czech Republic - 12
+DR Congo - 110
+Denmark - 13
+Dominican Republic - 207
+Ecuador - 57
+Egypt - 111
+El Salvador - 76
+Equatorial Guinea - 112
+Eritrea - 113
+Estonia - 208
+Ethiopia - 114
+FYR Macedonia - 19
+Faroe Islands - 16
+Fiji - 197
+Finland - 17
+Gabon - 115
+Gambia - 116
+Georgia - 20
+Ghana - 117
+Gibraltar - 205
+Greece - 22
+Grenada - 77
+Guam - 157
+Guatemala - 78
+Guinea - 118
+Guinea Bissau - 119
+Guyana - 79
+Haiti - 80
+Honduras - 81
+Hong Kong - 158
+Hungary - 23
+Iceland - 24
+India - 159
+Indonesia - 160
+Iran - 161
+Iraq - 162
+Israel - 26
+Ivory Coast - 108
+Jamaica - 82
+Japan - 163
+Jordan - 164
+Kazakhstan - 165
+Kenya - 120
+Korea DPR - 166
+Korea Republic - 167
+Kosovo - 219
+Latvia - 28
+Lebanon - 171
+Liberia - 122
+Libya - 123
+Lithuania - 30
+Luxemburg - 31
+Madagascar - 124
+Malawi - 125
+Malaysia - 173
+Mali - 126
+Malta - 32
+Mauritania - 127
+Mauritius - 128
+Mexico - 83
+Moldova - 33
+Montenegro - 15
+Montserrat - 84
+Morocco - 129
+Mozambique - 130
+Namibia - 131
+Netherlands Antilles - 85
+New Zealand - 198
+Niger - 132
+Nigeria - 133
+Northern Ireland - 35
+Norway - 36
+Palestinian Authority - 180
+Panama - 87
+Paraguay - 58
+Peru - 59
+Philippines - 181
+Poland - 37
+Puerto Rico - 88
+Republic of Ireland - 25
+Romania - 39
+Russia - 40
+Saudi Arabia - 183
+Scotland - 42
+Senegal - 136
+Serbia - 51
+Sierra Leone - 138
+Slovakia - 43
+Slovenia - 44
+South Africa - 140
+South Sudan - 218
+St Kitts Nevis - 89
+St Lucia - 90
+Sudan - 141
+Suriname - 92
+Sweden - 46
+Switzerland - 47
+Syria - 186
+Tanzania - 143
+Thailand - 188
+Togo - 144
+Trinidad & Tobago - 93
+Tunisia - 145
+Türkiye - 48
+UAE - 190
+Uganda - 146
+Ukraine - 49
+United States - 95
+Uruguay - 60
+Uzbekistan - 191
+Venezuela - 61
+Vietnam - 192
+Wales - 50
+Zambia - 147
+Zimbabwe - 148

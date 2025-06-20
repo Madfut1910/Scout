@@ -1,0 +1,675 @@
+Icons - 112658
+Heroes - 114605
+Barcelona - 241
+Real Madrid - 243
+Bayern München - 21
+Chelsea - 5
+OL - 66
+Arsenal - 1
+Manchester City - 10
+PSG - 73
+Liverpool - 9
+Manchester Utd - 11
+Spurs - 18
+Atlético - 240
+Leverkusen - 32
+Wolfsburg - 175
+Juventus - 45
+Roma - 52
+Aston Villa - 2
+Lombardia FC - 131682
+Frankfurt - 1824
+Athletic Club - 448
+RB Leipzig - 112172
+Borussia Dortmund - 22
+Brighton - 1808
+Napoli - 48
+Milano FC - 131681
+Real Sociedad - 457
+Newcastle Utd - 13
+Nott'm Forest - 14
+Lille - 65
+Real Betis - 449
+Benfica - 234
+Orlando City - 112606
+Freiburg - 25
+TSG Hoffenheim - 10029
+Bergamo Calcio - 115845
+SC Amsterdam - 245
+Leicester City - 95
+Fiorentina - 110374
+West Ham - 19
+Monaco - 69
+Werder Bremen - 38
+Latium - 115841
+Sevilla - 481
+Crystal Palace - 1799
+Girona - 110062
+Fenerbahçe - 326
+OM - 219
+Villarreal - 483
+Bournemouth - 1943
+Valencia - 461
+Eindhoven Reds - 247
+Brentford - 1925
+Paris - 111817
+Galatasaray - 325
+Everton - 7
+Fulham - 144
+Montpellier - 70
+Portland Timbers - 111140
+Nice - 72
+Bologna - 189
+Sporting - 237
+Al Hilal - 605
+Wolves - 110
+Stuttgart - 36
+Rotterdam South - 246
+Porto - 236
+Slavia Praha - 266
+Al Nassr - 112139
+Espanyol - 452
+Leeds United - 8
+M'gladbach - 23
+Mainz 05 - 169
+Mallorca - 453
+River Plate - 1876
+Lens - 64
+Torino - 54
+Houston Dynamo - 698
+Sounders - 111144
+Beşiktaş - 327
+Club Brugge - 231
+Nantes - 71
+Strasbourg - 76
+Union Berlin - 1831
+Como - 1745
+Rayo Vallecano - 480
+Trabzonspor - 436
+Southampton - 17
+Havre AC - 1738
+Reims - 379
+Inter Miami - 112893
+Celtic - 78
+Brestois - 378
+Rennais - 74
+Rangers - 86
+Las Palmas - 472
+Al Ittihad - 607
+Levante UD - 1853
+Panathinaikos - 1884
+Boca Juniors - 1877
+Ipswich - 94
+Augsburg - 100409
+Osasuna - 479
+AEK Athens - 278
+Olympiacos FC - 280
+Anderlecht - 229
+Köln - 31
+Parma - 50
+Celta - 450
+PAOK - 393
+Al Ahli - 112387
+Bochum - 160
+Monza - 111811
+Getafe - 1860
+Braga - 1896
+Twente - 1908
+Burnley - 1796
+Hellas Verona - 206
+D. Alavés - 463
+Cádiz - 1968
+Sparta Praha - 267
+Real Salt Lake - 111065
+Estudiantes - 101083
+AZ - 1906
+Toulouse - 1809
+Genoa - 110556
+Eibar - 467
+Granada - 110832
+UD Almería - 1861
+RB Salzburg - 191
+Racing Club - 101085
+Cagliari - 1842
+Lecce - 347
+LA Galaxy - 697
+RC Deportivo - 242
+Al Qadisiyah - 112391
+København - 819
+Luton Town - 1923
+Sunderland - 106
+AS Saint-Étienne - 1819
+Auxerre - 57
+CD Leganés - 100888
+Valladolid - 462
+R. Union St.-G. - 2014
+Middlesbrough - 12
+Norwich - 1792
+Lorient - 217
+Viktoria Plzeň - 110468
+Dynamo Kyiv - 101047
+Shakhtar Donetsk - 101059
+Al Shabab - 111674
+Lanús - 110395
+Genk - 673
+Royal Antwerp - 230
+Heidenheim - 111235
+Hamburger - 28
+Empoli - 1746
+Udinese - 55
+Charlotte - 114640
+Dallas - 695
+Bodø/Glimt - 918
+Başakşehir - 101014
+Brøndby - 269
+Coventry City - 1800
+Columbus Crew - 687
+LAFC - 112996
+Red Bulls - 689
+Whitecaps - 101112
+Leyton Orient - 1958
+Al Taawoun - 112393
+Ettifaq - 112096
+Talleres - 112670
+Ferencvárosi TC - 1874
+Midtjylland - 1516
+Breda FC - 1904
+Sheffield Utd - 1794
+Guingamp - 62
+Sassuolo - 111974
+Cincinnati - 113149
+SJ Earthquakes - 111928
+Eyüpspor - 131174
+Sturm Graz - 209
+St. Gallen - 898
+Young Boys - 900
+Dinamo Zagreb - 211
+Independiente - 110093
+Rosario Central - 110580
+Waldhof - 110532
+Gent - 674
+Utrecht - 1903
+Portsmouth - 1790
+Venezia - 205
+Cremonese - 111434
+Sampdoria - 1837
+D.C. United - 688
+Philadelphia - 112134
+Toronto - 111651
+Viking - 300
+R. Oviedo - 110827
+Stevenage - 361
+Wrexham AFC - 1947
+Ulsan Hyundai - 1473
+Basel 1893 - 896
+Arouca - 112513
+Vitória - 1887
+Al Fayha - 113057
+Damac - 113217
+Sydney - 111400
+Vélez Sarsfield - 101088
+Libertad - 111008
+Millonarios - 101105
+Belgrano - 111022
+Rongcheng - 116360
+Shanghai Port - 112540
+Al Ain - 111701
+Randers - 1786
+Standard Liège - 232
+Cardiff City - 1961
+QPR - 15
+West Brom - 109
+Angers SCO - 1530
+St. Pauli - 110329
+Darmstadt 98 - 110502
+Palermo - 1843
+St. Louis CITY - 113018
+Bristol Rovers - 1962
+Walsall - 1803
+Wimbledon - 112259
+Kasımpaşa - 111339
+Konyaspor - 101033
+Samsunspor - 748
+Winterthur - 1713
+Casa Pia AC - 114510
+Al Khaleej - 112883
+Al Wehda - 112408
+Godoy Cruz - 111706
+Alianza Lima - 111010
+Junior - 101101
+San Lorenzo - 1013
+Argentinos Jrs. - 111019
+Beijing Guoan - 111768
+Arminia Bielefeld - 159
+Erzgebirge Aue - 506
+Bengaluru - 113302
+Atl. Nacional - 101100
+Vejle Boldklub - 822
+Cercle Brugge - 1750
+K. Beerschot VA - 675
+KV Kortrijk - 100081
+Deventer CF - 100632
+Goffert FC - 1910
+Oxford United - 1951
+Minnesota United - 111138
+New England - 691
+New York City - 112828
+HamKam Fotball - 1756
+Kilmarnock - 82
+CD Eldense - 131110
+Elche - 468
+Málaga CF - 573
+Real Sporting - 459
+Djurgårdens - 710
+Malmö - 320
+Charlton Ath - 89
+Exeter City - 143
+Wycombe - 1933
+Bradford City - 1804
+Port Vale - 1928
+Górnik Zabrze - 420
+Korona Kielce - 111083
+Pogoń Szczecin - 110746
+Sivasspor - 101041
+GwangJu - 112258
+Incheon United - 110765
+Jeonbuk Hyundai - 1477
+Pohang Steelers - 1474
+Seoul - 982
+Lugano - 10032
+Moreirense - 1900
+Rio Ave - 744
+Hajduk Split - 263
+HJK Helsinki - 100325
+Botoșani - 110752
+UTA Arad - 110750
+Al Fateh - 112390
+WS Wanderers - 112427
+Newell's - 110396
+Cerro Porteño - 112716
+Colo-Colo - 110980
+Cerro Largo - 115536
+Danubio - 110998
+Deportes Tolima - 111722
+Metropolitanos - 112914
+Olimpia - 101108
+Sportivo Luqueño - 111006
+Shandong Taishan - 111724
+Zhejiang Pro - 112163
+Apoel - 100135
+Nordsjælland - 1788
+FCV Dender EH - 537
+KV Mechelen - 110724
+Zwolle Blues - 1914
+Bristol City - 1919
+Preston - 1801
+Stoke City - 1806
+Watford - 1795
+Metz - 68
+Pau - 110321
+Red Star FC - 111273
+Holstein Kiel - 576
+Elversberg - 580
+Nürnberg - 171
+Schalke 04 - 34
+Bari - 1848
+Pisa - 110738
+Austin - 114161
+Colorado Rapids - 694
+Molde FK - 417
+Hearts - 80
+Hibernian - 81
+Motherwell - 83
+CD Castellón - 100852
+Racing Club - 456
+Racing de Ferrol - 110242
+Häcken - 711
+Värnamo - 112126
+Birmingham City - 88
+Burton Albion - 15015
+Peterborough - 1938
+Reading - 1793
+Stockport - 1931
+Wigan Athletic - 1917
+Gillingham - 1802
+Salford City - 113926
+Legia Warszawa - 1871
+Adana Demirspor - 101016
+Gaziantep - 110776
+Hatayspor - 101028
+Çaykur Rizespor - 101037
+LASK - 252
+Lausanne-Sport - 1862
+Servette - 324
+AVS Futebol SAD - 131463
+Estrela Amadora - 718
+Gil Vicente - 1888
+CFR 1907 Cluj - 114385
+FC Gloria Buzău - 114549
+Politehnica Iași - 110815
+Univ. Craiova - 308
+Perth Glory - 111399
+Huracán - 111711
+Ind. Rivadavia - 111020
+Instituto - 110953
+Unión - 111716
+Barcelona SC - 110981
+Caracas F.C. - 110989
+Cobresal - 110978
+Huachipato - 111327
+LDU Quito - 110986
+Universitario - 111014
+Técnico U. - 113746
+UCV - 113029
+Uni. Católica - 110975
+Shanghai Shenhua - 110955
+Aleman. Aachen - 1826
+B. Dortmund II - 110676
+Hansa Rostock - 27
+Wehen Wiesbaden - 492
+AGF - 271
+Silkeborg - 270
+Viborg - 1443
+KVC Westerlo - 681
+OH Leuven - 100087
+Sp. Charleroi - 670
+Almelo - 100634
+Rotterdam OG - 100646
+Blackburn Rovers - 3
+Hull City - 1952
+Millwall - 97
+Plymouth Argyle - 1929
+Ajaccio - 614
+Clermont Foot - 1815
+ESTAC Troyes - 294
+Rodez AF - 111659
+Hannover 96 - 485
+Hertha Berlin - 166
+Kaiserslautern - 29
+Paderborn 07 - 10030
+Carrarese Calcio - 112493
+Cittadella - 111993
+Frosinone - 111657
+Modena - 1744
+Reggiana - 110740
+Salernitana - 110373
+Spezia - 113974
+Südtirol - 112494
+CF Montréal - 111139
+Nashville - 114162
+Sporting KC - 696
+Strømsgodset - 922
+Ross County - 631
+St. Mirren - 100805
+CD Mirandés - 110069
+Córdoba CF - 1867
+Real Zaragoza - 244
+Brommapojkarna - 111705
+IK Sirius - 113458
+Mjällby AIF - 112072
+Crawley Town - 110890
+Mansfield Town - 1940
+Northampton - 1930
+Doncaster - 142
+Fleetwood Town - 112260
+Newport County - 112254
+Shamrock Rovers - 306
+Cracovia - 110747
+GKS Katowice - 110206
+Jagiellonia - 110745
+Piast Gliwice - 111086
+Puszcza - 114393
+Raków - 114326
+Widzew Łódź - 301
+Śląsk Wrocław - 111092
+Alanyaspor - 113142
+Göztepe - 101026
+Austria Klagenfurt - 1787
+Austria Wien - 256
+Blau-Weiss Linz - 110720
+SCR Altach - 15009
+Daegu - 2056
+Gimcheon Sangmu - 2055
+Suwon - 112558
+Zürich - 894
+Boavista - 1898
+Famalicão - 112809
+FCSB - 100761
+Hermannstadt - 114147
+Petrolul - 110078
+Rapid 1923 - 310
+Al Kholood - 131735
+Al Okhdood - 113060
+Al Orobah - 112675
+Al Raed - 112392
+Macarthur - 114604
+Melb. Victory - 111397
+Western United - 114023
+Gimnasia - 101084
+Sarmiento - 112713
+Tigre - 111715
+Bolívar - 110968
+Independiente DV - 112908
+Peñarol - 101110
+América de Cali - 101099
+Club Nacional - 112671
+Defensa - 111710
+Delfín S.C. - 114580
+Nacional Potosí - 112667
+S. Trinidense - 116323
+U. Católica - 114581
+Wanderers - 111001
+Changchun Yatai - 111769
+Henan SSLM - 111779
+Wuhan 3 Towns - 116361
+Energie Cottbus - 162
+Ingolstadt 04 - 111239
+Rot-Weiss Essen - 526
+Saarbrücken - 523
+AaB - 820
+Lyngby BK - 15001
+FC North - 1915
+Heerenveen - 1913
+CF Waalwijk - 1905
+Sittard FC - 634
+FC Tilburg - 1907
+Derby County - 91
+Swansea City - 1960
+Annecy - 131447
+Bastia - 58
+Caen - 210
+FC Martigues - 67
+Grenoble Foot - 1805
+USL Dunkerque - 111276
+Braunschweig - 110500
+Jahn Regensburg - 543
+Karlsruher - 1832
+Magdeburg - 110588
+Preußen Münster - 531
+Ulm 1846 - 110176
+Brisigonza - 113973
+Cesena - 110915
+Cosenza - 112168
+Atlanta United - 112885
+Chicago Fire - 693
+Brann - 919
+Fredrikstad FK - 2041
+KFUM-Kameratene - 131491
+Kristiansund BK - 113459
+Sandefjord - 1757
+Sarpsborg 08 - 112199
+Tromsø IL - 418
+Aberdeen - 77
+Dundee - 180
+Dundee United - 181
+St. Johnstone - 100804
+Burgos - 10846
+Cartagena - 100851
+SD Huesca - 110839
+AIK - 433
+GAIS - 111594
+Göteborg - 319
+Kalmar - 1439
+Norrköping - 702
+Västerås SK - 112180
+Barnsley - 1932
+Bolton - 4
+Cambridge Utd - 1944
+Huddersfield - 1939
+Lincoln City - 149
+Rotherham Utd - 1797
+Shrewsbury - 127
+Bromley FC - 112764
+Carlisle United - 1480
+Colchester - 1935
+Harrogate Town - 112222
+Swindon Town - 1934
+Bohemian - 305
+Derry City - 445
+Lech Poznań - 873
+Lechia Gdańsk - 111091
+Motor Lublin - 111097
+Radomiak Radom - 111088
+Stal Mielec - 114004
+Kayserispor - 101020
+Grazer AK - 113616
+Hartberg - 2017
+Rapid Wien - 254
+Daejeon Citizen - 980
+Jeju United - 1478
+Luzern - 897
+Yverdon Sport - 1704
+Estoril Praia - 10020
+Farense - 489
+Nacional - 1891
+Dinamo 1948 - 100757
+Farul Constanța - 110075
+Oțelul Galați - 110072
+Sepsi OSK - 113378
+Unirea Slobozia - 131459
+Univ. Cluj - 110751
+Al Riyadh - 113037
+Adelaide United - 111393
+Auckland FC - 131739
+Brisbane Roar - 111395
+Central Coast - 111396
+Melbourne City - 112224
+Well. Phoenix - 111766
+Atlético Tucumán - 111708
+Banfield - 110404
+Dep. Riestra - 115472
+Nacional - 111325
+The Strongest - 110969
+ADT - 116263
+Alianza FC - 131511
+Dep. Garcilaso - 131161
+Everton - 112584
+Indep. Medellín - 101103
+Racing Club - 112615
+Rayo Zuliano - 131474
+Real Tomayapo - 115491
+S. Ameliano - 116295
+Universitario - 116292
+Wilstermann - 110974
+Meizhou Hakka - 114628
+Qingdao Hainiu - 131173
+Tianjin JMT - 111774
+1860 München - 33
+Sandhausen - 110178
+Verl - 110501
+ATK Mohun Bagan - 113146
+Chennaiyin - 113297
+Kerala Blasters - 113299
+Qarabağ FK - 113888
+Sønderjyske - 1447
+STVV - 680
+Almere - 111380
+Sheffield Wed - 1807
+Amiens - 1816
+Lavallois - 1814
+Düsseldorf - 110636
+Fürth - 165
+Catanzaro - 110908
+Mantova - 111433
+SS Juve Stabia - 112124
+Haugesund - 1463
+Lillestrøm - 299
+Odds BK - 1456
+Rosenborg - 298
+Albacete BP - 1854
+Tenerife - 260
+Elfsborg - 700
+Halmstads - 321
+Hammarby - 708
+Blackpool - 1926
+Accrington - 110313
+Barrow - 381
+Cheltenham Town - 1936
+Chesterfield - 1924
+Crewe Alexandra - 121
+Grimsby Town - 92
+MK Dons - 1798
+Morecambe - 357
+Notts County - 1937
+Tranmere Rovers - 15048
+Drogheda United - 1572
+Dundalk - 837
+Galway United - 1571
+Shelbourne - 834
+Sligo Rovers - 563
+St. Pats - 423
+Waterford - 753
+Zagłębie Lubin - 110749
+Antalyaspor - 741
+Bodrum FK - 131388
+WSG Tirol - 15040
+Wolfsberger AC - 111822
+Gangwon - 112115
+FC Sion - 110770
+Grasshopper Club - 322
+Santa Clara - 1438
+Newcastle Jets - 111398
+Barracas Central - 113044
+Central Córdoba - 112965
+Platense - 112689
+Atlético Mineiro - 1035
+Botafogo - 517
+Dep. Táchira - 110990
+Flamengo - 1043
+Fluminense - 567
+Liverpool - 111326
+Palestino - 111328
+Palmeiras - 383
+São Paulo - 598
+Always Ready - 114577
+Athletico-PR - 1039
+Carabobo FC - 110991
+Coquimbo Unido - 112705
+Corinthians - 1041
+Dep. Cuenca - 110982
+Dep. La Guaira - 112853
+Fortaleza - 111052
+Guaraní - 111329
+Internacional - 1048
+RB Bragantino - 112472
+Sport Huancayo - 114511
+Unión La Calera - 112535
+Cangzhou - 112985
+Nantong Zhiyun - 112979
+Qingdao W. Coast - 131488
+SZ Peng City - 131487
+Dynamo Dresden - 503
+Hannover 96 II - 110683
+Osnabrück - 487
+Unterhaching - 172
+VfB Stuttgart II - 110697
+Viktoria Köln - 110645
+East Bengal - 111629
+Goa - 113298
+Hyderabad - 113301
+Jamshedpur - 114168
+Mohammedan SC - 111633
+Mumbai City - 113300
+NorthEast United - 113040
+Odisha - 113257
+Punjab - 115202
